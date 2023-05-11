@@ -12,7 +12,7 @@ router.post("/", async (req, res) => {
   }
 });
 
-//get all pins
+
 
 
 module.exports = router;
